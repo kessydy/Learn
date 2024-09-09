@@ -13,5 +13,6 @@ public static void main(String [] args) {
             }
         y = y - 2;
         }
+    System.out.println(x + y);
     }
 }
